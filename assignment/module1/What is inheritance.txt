@@ -1,0 +1,2 @@
+What is inheritance?
+		->when one object acquire all the properties and behaviour of parent
